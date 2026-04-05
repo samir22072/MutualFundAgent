@@ -1,0 +1,21 @@
+id,fund_name,fund_risk_profile,cagr_1_year,cagr_3_year,cagr_5_year,created_by,modified_by,created_at,modified_at,is_deleted
+1,"Nippon India Liquid Fund",low,6.5,6.2,5.8,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+2,"SBI Magnum Gilt Fund",low,7.1,6.8,6.5,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+3,"HDFC Corporate Bond Fund",low,7.4,7.0,6.9,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+4,"ICICI Prudential Savings Fund",low,6.8,6.4,6.1,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+5,"Kotak Banking and PSU Debt Fund",low,7.2,7.3,7.0,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+6,"Axis Short Term Fund",low,7.0,6.9,6.5,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+7,"Parag Parikh Flexi Cap Fund",medium,22.5,18.4,20.1,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+8,"SBI Equity Hybrid Fund",medium,15.2,14.1,13.5,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+9,"HDFC Balanced Advantage Fund",medium,14.8,13.9,12.8,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+10,"Mirae Asset Large Cap Fund",medium,18.5,16.2,15.4,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+11,"ICICI Prudential Equity & Debt Fund",medium,17.1,15.5,14.2,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+12,"Kotak Equity Opportunities Fund",medium,20.4,18.8,17.5,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+13,"Axis Bluechip Fund",medium,16.5,15.0,14.8,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+14,"Quant Small Cap Fund",high,55.4,38.2,32.5,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+15,"Nippon India Small Cap Fund",high,48.2,35.1,28.4,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+16,"HDFC Small Cap Fund",high,42.1,31.5,25.8,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+17,"SBI Small Cap Fund",high,39.5,29.8,26.2,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+18,"Tata Digital India Fund",high,35.2,25.4,28.1,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+19,"ICICI Prudential Technology Fund",high,38.7,28.9,29.5,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
+20,"Aditya Birla Sun Life Frontline Equity",high,25.4,21.2,18.5,system,system,2026-04-05T14:35:54.320043,2026-04-05T14:35:54.320043,0
