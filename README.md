@@ -14,15 +14,33 @@ A powerful multi-agent financial advisory platform built with CrewAI, FastAPI, a
 
 ## ⚡ Quick Start
 
-### 1. Prerequisite: Environment Variables
-Create a `.env` file in the `backend/` directory with your API keys:
-```env
-GOOGLE_API_KEY=your_google_api_key
+### 1. Environment Variables
+Create the necessary environment files based on the provided examples:
+
+**Backend:**
+```bash
+cp backend/.env.example backend/.env
+```
+Edit `backend/.env` and add your `GOOGLE_API_KEY`.
+
+**Frontend:**
+```bash
+# Note: The example file is named env.local.example
+cp frontend/env.local.example frontend/.env.local
 ```
 
-### 2. Backend Setup
+### 2. Database Setup
+Initialize the SQLite database with sample mutual fund data:
 ```bash
-# Navigate to backend
+cd backend
+python data/db_setup.py
+```
+
+### 3. Application Setup
+
+#### Backend Setup
+```bash
+# Navigate to backend (if not already there)
 cd backend
 
 # Create and activate virtual environment
@@ -37,7 +55,7 @@ python main.py
 ```
 The backend will be available at `http://localhost:8000`.
 
-### 3. Frontend Setup
+#### Frontend Setup
 ```bash
 # Navigate to frontend
 cd frontend
